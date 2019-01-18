@@ -1,0 +1,19 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Temporary
+tagline:             'illustrating basic web site set-up'
+description:         'A Lanyon-themed gh-pages web site'
+url:                 '/'
+baseurl:             '/'
+paginate:            8
+
+# About/contact
+author:
+  name:             CPS
+  url:              https://github.com/cstarkjp
+  email:            cstarkjp@gmail.com
