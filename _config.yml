@@ -5,8 +5,8 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               "Let's study English"
-tagline:             'with an Englishman!'
+title:               "Study English with an Englishman!"
+tagline:             ''
 description:         'English classes in Miyakonojo with an English professor'
 url:                 '/'
 baseurl:             '/'
