@@ -5,9 +5,9 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Temporary
-tagline:             'illustrating basic web site set-up'
-description:         'A Lanyon-themed gh-pages web site'
+title:               Learning English in Kyushu
+tagline:             'with an Englishman'
+description:         'English classes in Miyakonojo'
 url:                 '/'
 baseurl:             '/'
 paginate:            8
@@ -15,5 +15,5 @@ paginate:            8
 # About/contact
 author:
   name:             CPS
-  url:              https://github.com/cstarkjp
+  url:              https://kyushuenglish.github.io/
   email:            cstarkjp@gmail.com
