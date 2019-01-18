@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Results
-lc_title: results
+title: Contact us
+lc_title: Contact us
 ---
 
 

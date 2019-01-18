@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Data
-lc_title: data
+title: About us
 ---
 
-## Digital elevation data 
+## About us

@@ -1,11 +1,6 @@
 ---
 layout: page
-title: Publications
-lc_title: publications
+title: Where we meet
+lc_title: Where we meet
 ---
-
-## Journal articles
-
-
-1. 
 

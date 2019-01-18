@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Method
-lc_title: method
+title: Welcome!
+lc_title: Welcome!
 ---
 
 
