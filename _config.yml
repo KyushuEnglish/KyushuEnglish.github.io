@@ -9,7 +9,7 @@ title:               Learning English in Kyushu
 tagline:             'with an Englishman'
 description:         'English classes in Miyakonojo'
 url:                 '/KyushuEnglish'
-baseurl:             '/KyushuEnglish'
+baseurl:             '/'
 paginate:            8
 
 # About/contact
