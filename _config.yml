@@ -9,7 +9,7 @@ title:               "Study English with an Englishman!"
 tagline:             ''
 description:         'English classes in Miyakonojo with an English professor'
 url:                 '/'
-baseurl:             '/'
+baseurl:             '/KyushuEnglish'
 paginate:            8
 
 # About/contact
