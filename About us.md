@@ -3,4 +3,4 @@ layout: page
 title: About us
 ---
 
-![Hello!]({{ site.baseurl }}/beh.jpg)
+![Hello!](img/beh.jpg)
