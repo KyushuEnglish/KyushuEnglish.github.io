@@ -8,7 +8,7 @@ permalink:           pretty
 title:               "Study English with an Englishman!"
 tagline:             ''
 description:         'English classes in Miyakonojo with an English professor'
-url:                 '/KyushuEnglish'
+url:                 '/'
 baseurl:             '/'
 paginate:            8
 
