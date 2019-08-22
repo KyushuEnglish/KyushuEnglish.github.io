@@ -4,7 +4,8 @@ title: Where we meet
 lc_title: Where we meet
 ---
 
-![Hello!](img/MiyakonojoLibraryMap.png)
+
+[![Hello!](img/MiyakonojoLibraryMap.png)](https://www.google.com/maps/@31.7250872,131.0650926,19.75z)
 
 場所：未来創造ステーション（都城市図書館内）
 
