@@ -11,6 +11,6 @@ This is not a photo of him. He is a rather older than that.
 
 Here are some news items in Japanese about Colin's research work:
 
- [CNN op-ed about the Haiti earthquake](https://blog.goo.ne.jp/geomorgis/e/73c2de60b5ea6b788e9d5bb9cb81a25e)
+   -  [CNN op-ed about the Haiti earthquake](https://blog.goo.ne.jp/geomorgis/e/73c2de60b5ea6b788e9d5bb9cb81a25e)
  
- [Blog item about his work on detecting huge landslides using novel techniques](http://gis-landslide.blogspot.com/2010/11/2gis-landslide.html?m=1)
+   -  [Blog item about his work on detecting huge landslides using novel techniques](http://gis-landslide.blogspot.com/2010/11/2gis-landslide.html?m=1)
